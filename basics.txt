@@ -1,0 +1,12 @@
+VS CODE SHORTCUTS:
+save file-ctrl+s;
+undo-ctrl+z;
+redo-ctrl+y;
+select a line:ctrl+l;
+shift+placeholder1+placeholder2-will select the entire content btwn placeholder.
+multicursor::
+   longpresss alt+place your cursor
+   select multi duplicate: ctrl+d.
+search for something in present file-ctrl+f
+zoom in-ctrl+'+'
+zoom out-ctrl+'-'   
